@@ -43,6 +43,8 @@ The project followed an end-to-end analytics workflow:
 
 ## Power BI Dashboard
 
+![Power BI Executive Revenue Pulse dashboard](Screenshot%202026-11-03%20025518.png)
+
 The report is organised into four pages, each focusing on a different business perspective.
 
 ### 1. Overview — Executive Revenue Pulse
