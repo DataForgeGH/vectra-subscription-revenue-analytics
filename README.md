@@ -107,7 +107,7 @@ vectra-subscription-revenue-analytics/
 │
 ├── README.md
 ├── sql/
-│   └── vectra_subscription_analytics.sql
+│   └── vectra_subscription_analytics
 │
 ├── powerbi/
 │   └── vectra_analytics.pbix
